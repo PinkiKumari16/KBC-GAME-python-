@@ -57,4 +57,4 @@ The code consists of the following main parts:
 To run the game, simply execute the script using Python:
 
 ```sh
-python kbc_game.py
+python3 kbc_game.py
